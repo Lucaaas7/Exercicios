@@ -4,7 +4,7 @@ namespace ListaExercicios
 {
     class Exercicio03
     {
-        public static void exercutar2(){
+        public static void executar2(){
 
             int b;
             int altura, calculo;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cabri\\Desktop\\aulagit\\aula16\\ListaExercicios\\ListaExercicios.csproj",
+      "projectUniqueName": "C:\\Users\\Cabri\\Documents\\GitHub\\Exercicios\\aula16\\ListaExercicios\\ListaExercicios.csproj",
       "projectName": "ListaExercicios",
-      "projectPath": "C:\\Users\\Cabri\\Desktop\\aulagit\\aula16\\ListaExercicios\\ListaExercicios.csproj",
+      "projectPath": "C:\\Users\\Cabri\\Documents\\GitHub\\Exercicios\\aula16\\ListaExercicios\\ListaExercicios.csproj",
       "packagesPath": "C:\\Users\\Cabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cabri\\Desktop\\aulagit\\aula16\\ListaExercicios\\obj\\",
+      "outputPath": "C:\\Users\\Cabri\\Documents\\GitHub\\Exercicios\\aula16\\ListaExercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
