@@ -31,6 +31,21 @@ namespace ListaExercicios
                     case 5:
                         Exercicio05.executar4();
                         break;
+                    case 6:
+                        Exercicio06.executar5();
+                        break;
+                    case 7:
+                        Exercicio07.executar6();
+                        break;
+                    case 8:
+                        Exercicio08.executar7();
+                        break;
+                    case 9:
+                        Exercicio09.executar8();
+                        break;
+                    case 10:
+                        Exercicio10.executar9();
+                        break;
                     case 99:
                         Console.WriteLine("Saindo do programa");
                         break;
