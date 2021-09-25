@@ -1,0 +1,16 @@
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.csproj.AssemblyReference.cache
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.AssemblyInfoInputs.cache
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.AssemblyInfo.cs
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.exe
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.deps.json
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.runtimeconfig.json
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.runtimeconfig.dev.json
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.dll
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ref\ExerciciosPOO.dll
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\bin\Debug\net5.0\ExerciciosPOO.pdb
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.dll
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ref\ExerciciosPOO.dll
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.pdb
+C:\Users\Cabri\Desktop\curso_csharp_itau\ExerciciosPOO\obj\Debug\net5.0\ExerciciosPOO.genruntimeconfig.cache
