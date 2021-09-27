@@ -4,14 +4,14 @@ namespace ExerciciosPOO
 {
     class Elevador
     {
-        int andarAtual, totalAndares, capacidadeElevador, qtdePessoas, andarSubir, andarDescer;
+        int andarAtual, totalAndares, capacidadeElevador, qtdePessoas, andarSubir, andarDescer, gravar;
         const int terreo = 0;
 
-        public Elevador(int qtdePessoas){
+        public Elevador(){
             this.andarSubir = 0;
             this.totalAndares = 0;
             this.capacidadeElevador = 0;
-            this.qtdePessoas = qtdePessoas;
+            this.qtdePessoas = 0;
             this.andarDescer = 0;
         }
 
@@ -39,7 +39,7 @@ namespace ExerciciosPOO
         public int getCapacidadeElevador(){
             return capacidadeElevador;
         }
-        public void setCapacidadeTotal(int capacidadeElevador){
+        public void setCapacidadeElevador(int capacidadeElevador){
             this.capacidadeElevador = capacidadeElevador;
         }
 
@@ -51,15 +51,18 @@ namespace ExerciciosPOO
         }
 
         public void inicializa(int capacidadeElevador, int totalAndares){
+            this.capacidadeElevador = capacidadeElevador;
+            this.totalAndares = totalAndares;
             andarAtual = terreo; //duvida ainda
             Console.WriteLine("Capacidade máxima: " + capacidadeElevador);
             Console.WriteLine("Total de andares: " + totalAndares);
         }
 
-        public void entra(){
-            if(capacidadeElevador >= qtdePessoas){
-                qtdePessoas++; //duvida
-                Console.WriteLine("Quantidade de pessoas inseridas no elevador: " + qtdePessoas);
+        public void entra(int qtdePessoas){ //quero usar debug nesse metodo
+        
+            if(this.qtdePessoas + qtdePessoas <= capacidadeElevador){ //essa duvida no if
+                this.qtdePessoas += qtdePessoas;
+                Console.WriteLine("Quantidade de pessoas inseridas no elevador: " + this.qtdePessoas); //correto?
             }
             else{
                 Console.WriteLine("Não foi possível inserir mais uma pessoa devido a capacidade limitdada");
@@ -67,13 +70,14 @@ namespace ExerciciosPOO
         }
 
         public void sai(int qtdePessoas){
-            if(qtdePessoas != 0){
-                qtdePessoas--;
-                Console.WriteLine("Removendo uma pessoa: " + qtdePessoas);
+            if(this.qtdePessoas != 0){
+                this.qtdePessoas -= qtdePessoas;
+                Console.WriteLine("Removendo uma pessoa: " + this.qtdePessoas);
             }
             else{
                 Console.WriteLine("Não tem ninguém no elevador.");
             }
+
         }
 
         public void sobe(int andarSubir){
